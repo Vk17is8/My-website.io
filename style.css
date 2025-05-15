@@ -1,0 +1,38 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  flex-direction: column;
+}
+
+.hero {
+  max-width: 600px;
+  padding: 20px;
+}
+
+a {
+  color: #00ffe7;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+h2 {
+  margin-top: 30px;
+  color: #00ffd5;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}
